@@ -1,4 +1,4 @@
-![image](https://github.com/Vaishnavi204/Ex04_Web-Design/assets/167157596/ce6f46cb-c4a1-40e2-b554-c91fb3c0035a)# Ex.04 Images as Hyperlinks
+# Ex.04 Images as Hyperlinks
 ## AIM
   Insert five different images ( 2 on Crops and 2 on Machines and 1 on Fertilizer required ). 
   Skip two lines between each image. Each image should have a title. 
