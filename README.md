@@ -59,6 +59,12 @@ ORGANIC FERTILIZER:
 
 ## OUTPUT
 ![Screenshot (14)](https://github.com/Vaishnavi204/Ex04_Web-Design/assets/167157596/817afc96-05da-49ed-8b1e-0c61000b7a95)
+![Screenshot (15)](https://github.com/Vaishnavi204/Ex04_Web-Design/assets/167157596/57d04eee-50f9-435b-83fb-dfb8ada01023)
+![Screenshot (16)](https://github.com/Vaishnavi204/Ex04_Web-Design/assets/167157596/062e9225-27b8-4d7f-98e9-1a99c24a44a0)
+![Screenshot (17)](https://github.com/Vaishnavi204/Ex04_Web-Design/assets/167157596/375dcee6-b9d7-4dc3-9ec3-cf692fbe8039)
+
+
+
 
 
 ## RESULT
